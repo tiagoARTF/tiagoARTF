@@ -4,7 +4,7 @@
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
 
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/tiagoARTF)
+[![GitHub followers](https://img.shields.io/github/followers/10?style=social)](https://github.com/tiagoARTF)
 
 ## about me
 
