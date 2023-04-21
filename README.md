@@ -9,4 +9,7 @@
 ## about me
 
 - 📲 Mobile developer and Web
+- **Languages :** Python, C, JavaScript💻
+-  **Hobbies :** Articles📕 & Music :headphones:
+-  **Fact :** It's never late to get started 🎯:heart:
 <br>
